@@ -159,5 +159,8 @@ define('APP_CURRENCY', 'Rp');            // Simbol mata uang
 MIT License - Silakan gunakan dan modifikasi sesuai kebutuhan.
 
 ---
+## Kontak
+Untuk DB Sqlite nya, Bisa Hub e Admin ya.... https://alatkerjaitrs.my.id/kontak.php
 
+---
 > Dibuat dengan ❤️ untuk toko kelontong Indonesia 🇮🇩
